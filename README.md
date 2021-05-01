@@ -2,7 +2,7 @@
 
 ## Tip
 
-Initial vector(des\_iv\.txt) and key(des\_key\.txt) should be placed in the folder "file" in the same directory with the \.exe\.
+Initial vector(AES\_iv\.txt) and key(AES\_key\.txt) should be placed in the folder "file" in the same directory with the \.exe\.
 
 ## Commands
 
